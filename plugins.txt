@@ -1,2 +1,16 @@
-gitlab-plugin:1.4.4
+credentials
+plain-credentials
+script-security
+structs
+junit
+scm-api
+git-client
+matrix-project
+display-url-api
+mailer
+ssh-credentials
+workflow-scm-step
+git
+workflow-step-api
+gitlab-plugin
 
