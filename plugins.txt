@@ -13,4 +13,6 @@ workflow-scm-step
 git
 workflow-step-api
 gitlab-plugin
-
+cloudbees-folder
+token-macro
+config-file-provider
