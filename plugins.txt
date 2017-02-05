@@ -16,3 +16,4 @@ gitlab-plugin
 cloudbees-folder
 token-macro
 config-file-provider
+pipeline-maven
